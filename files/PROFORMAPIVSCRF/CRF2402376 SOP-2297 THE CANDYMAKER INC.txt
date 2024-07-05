@@ -1,0 +1,3 @@
+"CRF2402376"|"02/23/24"|"Posted"|"THE CANDYMAKER INC."|"1,380,825"|"1,380,825"|"S0940"|"CRF-AP"|"Bank Account"|"B-001"|"CRF2402376"|"PAYMENT FOR SNOWBEAR CANDIES; SOP-2297"|""|"THE CANDYMAKER INC."|" "|"1"|""|""
+
+"CRF2402376"|"10000"|"PS24020531"|"S0940"|"10.10.01.03.10"|"0"|"1,380,825"|"1,380,825"|"0"|"Posted"|"G/L Account"|""|"8791"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

@@ -1,0 +1,3 @@
+"CRF2306286"|"06/13/23"|"Posted"|"LMB GROCERY"|"22,800"|"22,800"|"S0362"|"CRF-AP"|"G/L Account"|"10.10.01.03.11"|"CRF2306286"|"PAYMENT FOR FLOUR:SOP#989:CDC"|""|"LMB GROCERY"|" "|"1"|""|""
+
+"CRF2306286"|"10000"|"PS23060399"|"S0362"|"10.10.01.03.10"|"0"|"22,800"|"22,800"|"0"|"Posted"|"G/L Account"|""|"1503 SOP#989 LMB GROCERY"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

@@ -1,0 +1,3 @@
+"CRF2401387"|"01/30/24"|"Posted"|"JOSELITO LIWANAG"|"81,316.8"|"81,316.8"|"S6379"|"CRF-AP"|"Bank Account"|"B-001"|"CRF2401387"|"PAYMENT FOR GATORADE & 7-UP 2024;CWO SOP2140"|""|"JOSELITO LIWANAG"|" "|"1"|""|""
+
+"CRF2401387"|"10000"|"PS24010478"|"S6379"|"10.10.01.03.10"|"0"|"81,316.8"|"81,316.8"|"0"|"Posted"|"G/L Account"|""|"2129"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

@@ -1,0 +1,4 @@
+"CV24020185"|"02/14/24"|"Posted"|"BISCONFOOD INTERNATIONAL, INC."|"25,869.64"|"25,869.64"|"S7382"|"CV-AP"|"Bank Account"|"B-007"|"CV24020185"|"PAYMENT FOR SOP#87; CWO"|""|"BISCONFOOD INTERNATIONAL INC"|" "|"2"|""|""
+
+"CV24020185"|"10000"|"PS24020254"|"S7382"|"10.10.01.03.10"|"0"|"26,102.7"|"26,102.7"|"0"|"Posted"|"G/L Account"|""|"65290-65291"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"
+"CV24020185"|"20000"|"PS24020254"|"S7382"|"GJNL086088"|"753845426"|"-233.06"|"-233.06"|"0"|"Posted"|"Credit Memo"|""|"WHT SI#65290-91"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|" "

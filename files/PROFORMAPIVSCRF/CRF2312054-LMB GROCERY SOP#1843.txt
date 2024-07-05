@@ -1,0 +1,3 @@
+"CRF2312054"|"12/04/23"|"Posted"|"LMB GROCERY"|"445,200"|"445,200"|"S0362"|"CRF-AP"|"G/L Account"|"10.10.01.03.11"|"CRF2312054"|"PAYMENT FOR PRINGLES;SOP#1843"|""|"LMB GROCERY"|" "|"1"|""|""
+
+"CRF2312054"|"10000"|"PS23120056"|"S0362"|"10.10.01.03.10"|"0"|"445,200"|"445,200"|"0"|"Posted"|"G/L Account"|""|"1685"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

@@ -1,0 +1,3 @@
+"CRF2403286"|"03/15/24"|"Posted"|"THE CANDYMAKER INC."|"1,380,825"|"1,380,825"|"S0940"|"CRF-AP"|"Bank Account"|"B-001"|"CRF2403286"|"PAYMENT FOR ASSORTED CANDIES; 2024 SOP-2422"|""|"THE CANDYMAKER INC."|" "|"1"|""|""
+
+"CRF2403286"|"10000"|"PS24030299"|"S0940"|"10.10.01.03.10"|"0"|"1,380,825"|"1,380,825"|"0"|"Posted"|"G/L Account"|""|"7532"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

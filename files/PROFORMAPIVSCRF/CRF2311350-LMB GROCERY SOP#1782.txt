@@ -1,0 +1,3 @@
+"CRF2311350"|"11/24/23"|"Posted"|"LMB GROCERY"|"163,000"|"163,000"|"S0362"|"CRF-AP"|"G/L Account"|"10.10.01.03.11"|"CRF2311350"|"PAYMENT FOR CAMOTE FLOUR;SOP#1782"|""|"LMB GROCERY"|" "|"1"|""|""
+
+"CRF2311350"|"10000"|"PS23110405"|"S0362"|"10.10.01.03.10"|"0"|"163,000"|"163,000"|"0"|"Posted"|"G/L Account"|""|"2485"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

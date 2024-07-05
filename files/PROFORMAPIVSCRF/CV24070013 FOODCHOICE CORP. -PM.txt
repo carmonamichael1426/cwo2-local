@@ -1,0 +1,3 @@
+"CV24070013"|"07/02/24"|"Posted"|"FOODCHOICE CORP."|"13,208.21"|"13,208.21"|"S7372"|"CV-AP"|"Bank Account"|"B-004"|"CV24070013"|"PAYMENT FOR SOP#135;CWO"|""|"FOODCHOICE CORP"|" "|"1"|""|""
+
+"CV24070013"|"10000"|"PS24060523"|"S7372"|"10.10.01.03.10"|"0"|"13,208.21"|"13,208.21"|"0"|"Posted"|"G/L Account"|""|"0474034"|"Advances to Suppliers"|"01.03"|"01.03.1.01"|"Advances"

@@ -1,0 +1,4 @@
+"CV24040091"|"04/05/24"|"Posted"|"PI¥AKAMASARAP CORPORATION"|"12,062.96"|"12,062.96"|"S3659"|"CV-AP"|"Bank Account"|"B-007"|"CV24040091"|"PAYMENT FOR SOP#109;CWO"|""|"PI¥AKAMASARAP CORPORATION"|" "|"2"|""|""
+
+"CV24040091"|"10000"|"PS24040100"|"S3659"|"10.10.01.03.10"|"0"|"12,171.64"|"12,171.64"|"0"|"Posted"|"G/L Account"|""|"3715"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"
+"CV24040091"|"20000"|"PS24040100"|"S3659"|"GJNL087036"|"753880358"|"-108.68"|"-108.68"|"0"|"Posted"|"Credit Memo"|""|"WHT SI#3745"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|" "

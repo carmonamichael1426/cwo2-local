@@ -1,0 +1,3 @@
+"CV23050269"|"05/08/23"|"Posted"|"ALCL MARKETING"|"78,294.64"|"78,294.64"|"S8100"|"CV-AP"|"Bank Account"|"B-012"|"CV23050269"|"PAYMENT FOR SOP#13; INV#460985; CWO"|""|"ALCL MARKETING"|" "|"1"|""|""
+
+"CV23050269"|"10000"|"PS23050407"|"S8100"|"10.10.01.03.10"|"0"|"78,294.64"|"78,294.64"|"0"|"Posted"|"G/L Account"|""|"460985"|"Advances to Suppliers"|"01.04"|"01.04.1.01"|"Advances"

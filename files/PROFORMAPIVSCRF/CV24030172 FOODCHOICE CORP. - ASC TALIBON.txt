@@ -1,0 +1,4 @@
+"CV24030172"|"03/11/24"|"Posted"|"FOODCHOICE CORP."|"18,872.18"|"18,872.18"|"S7372"|"CV-AP"|"Bank Account"|"B-007"|"CV24030172"|"PAYMENT FOR SOP#97;CWO"|""|"FOODCHOICE CORP"|" "|"2"|""|""
+
+"CV24030172"|"10000"|"PS24030220"|"S7372"|"10.10.01.03.10"|"0"|"19,042.2"|"19,042.2"|"0"|"Posted"|"G/L Account"|""|"3107"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"
+"CV24030172"|"20000"|"PS24030220"|"S7372"|"GJNL086592"|"753866125"|"-170.02"|"-170.02"|"0"|"Posted"|"Credit Memo"|""|"WHT SI#3107"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"

@@ -1,0 +1,3 @@
+"CV24011170"|"01/29/24"|"Posted"|"ODELON A. MIRANDA"|"154,480"|"154,480"|"S7955"|"CV-AP"|"Bank Account"|"B-012"|"CV24011170"|"PAYMENT FOR SOP#85;INV#4901;CWO"|""|"ODELON A. MIRANDA"|" "|"1"|""|""
+
+"CV24011170"|"10000"|"PS24011406"|"S7955"|"10.10.01.03.10"|"0"|"154,480"|"154,480"|"0"|"Posted"|"G/L Account"|""|"4901"|"Advances to Suppliers"|"01.04"|"01.04.1.01"|"Advances"

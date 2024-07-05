@@ -1,0 +1,3 @@
+"CV24040252"|"04/05/24"|"Posted"|"PURE SNACK FOOD HOUSE CORP"|"30,712.2"|"30,712.2"|"S5348"|"CV-AP"|"Bank Account"|"B-012"|"CV24040252"|"PAYMENT FOR SOP#113;CWO"|""|"PURE SNACK FOOD HOUSE CORP"|" "|"1"|""|""
+
+"CV24040252"|"10000"|"PS24040536"|"S5348"|"10.10.01.03.10"|"0"|"30,712.2"|"30,712.2"|"0"|"Posted"|"G/L Account"|""|"105861,105863"|"Advances to Suppliers"|"01.04"|"01.04.1.01"|"Advances"

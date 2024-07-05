@@ -1,0 +1,3 @@
+"CV24040171"|"04/05/24"|"Open"|"PI¥AKAMASARAP CORPORATION"|"30,712.52"|"30,712.52"|"S3659"|"CV-AP"|"Bank Account"|"B-001"|""|"PAYMENT FOR SOP#107;CWO"|""|"PI¥AKAMASARAP CORPORATION"|" "|"0"|""|""
+
+"CV24040171"|"10000"|"PS24040240"|"S3659"|"10.10.01.03.10"|"0"|"30,712.52"|"30,712.52"|"0"|"Open"|"G/L Account"|""|"3468"|"Advances to Suppliers"|"01.01"|"01.01.1.01"|"Advances"

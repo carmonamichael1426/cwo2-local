@@ -1,0 +1,4 @@
+"CV23030160"|"03/10/23"|"Posted"|"STATELINE SNACK FOOD CORPORATION"|"5,436.37"|"5,436.37"|"S0120"|"CV-AP"|"Bank Account"|"B-001"|"CV23030160"|"PAYMENT FOR SOP#513; INV#193276"|""|"STATELINE SNACK FOOD CORP"|" "|"2"|""|""
+
+"CV23030160"|"10000"|"PS23030190"|"S0120"|"10.10.01.03.10"|"0"|"5,485.35"|"5,485.35"|"0"|"Posted"|"G/L Account"|""|"193276"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"
+"CV23030160"|"20000"|"PS23030190"|"S0120"|"GJNL078341"|"753553388"|"-48.98"|"-48.98"|"0"|"Posted"|"Credit Memo"|""|"WHT SI#193276"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"

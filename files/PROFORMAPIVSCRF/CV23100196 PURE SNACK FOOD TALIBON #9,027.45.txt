@@ -1,0 +1,3 @@
+"CV23100196"|"10/11/23"|"Posted"|"PURE SNACK FOOD HOUSE CORP"|"9,027.45"|"9,027.45"|"S5348"|"CV-AP"|"Bank Account"|"B-001"|"CV23100196"|"PAYMENT FOR SOP#57;INV#103275-75"|""|"PURE SNACK FOOD HOUSE CORP"|" "|"2"|""|""
+
+"CV23100196"|"10000"|"PS23100234"|"S5348"|"10.10.01.03.10"|"0"|"9,027.45"|"9,027.45"|"0"|"Posted"|"G/L Account"|""|"103275-75"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"

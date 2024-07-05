@@ -1,0 +1,3 @@
+"CV23030953"|"03/28/23"|"Posted"|"LMB GROCERY"|"72,000"|"72,000"|"S0362"|"CV-AP"|"Bank Account"|"B-012"|"CV23030953"|"PAYMENT FOR SOP#615; INV#1594"|""|"LMB GROCERY"|" "|"1"|""|""
+
+"CV23030953"|"10000"|"PS23031360"|"S0362"|"10.10.01.03.10"|"0"|"72,000"|"72,000"|"0"|"Posted"|"G/L Account"|""|"1594"|"Advances to Suppliers"|"01.04"|"01.04.1.01"|"Advances"

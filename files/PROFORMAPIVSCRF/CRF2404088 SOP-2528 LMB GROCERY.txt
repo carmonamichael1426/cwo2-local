@@ -1,0 +1,3 @@
+"CRF2404088"|"04/04/24"|"Posted"|"LMB GROCERY"|"443,716"|"443,716"|"S0362"|"CRF-AP"|"Bank Account"|"B-001"|"CRF2404088"|"PAYMENT FOR PRINGLES; 2024 SOP-2528"|""|"LMB GROCERY"|" "|"2"|""|""
+
+"CRF2404088"|"10000"|"PS24040132"|"S0362"|"10.10.01.03.10"|"0"|"443,716"|"443,716"|"0"|"Posted"|"G/L Account"|""|"2795"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

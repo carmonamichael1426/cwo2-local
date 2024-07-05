@@ -1,0 +1,5 @@
+"CV23110388"|"11/29/23"|"Posted"|"PI¥AKAMASARAP CORPORATION"|"3,817.21"|"3,817.21"|"S3659"|"CV-AP"|"Bank Account"|"B-001"|"CV23110388"|"PAYMENT FOR SOP#69;INV#SMGM00480808"|""|"PI¥AKAMASARAP CORPORATION"|" "|"2"|""|""
+
+"CV23110388"|"10000"|"PS23110457"|"S3659"|"10.10.01.03.10"|"0"|"4,166.6"|"4,166.6"|"0"|"Posted"|"G/L Account"|""|"SMGM00480808"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"
+"CV23110388"|"20000"|"PS23110457"|"S3659"|"GJNL085033"|"753786722"|"-34.39"|"-34.39"|"0"|"Posted"|"Credit Memo"|""|"WHT (3,851.61)"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"
+"CV23110388"|"30000"|"PS23110457"|"S3659"|"GJNL085034"|"753786724"|"-315"|"-315"|"0"|"Posted"|" "|""|"FREIGHT ALLOWANCE (9CS*35/CS"|"Advances to Suppliers"|"01.02"|"01.02.1.01"|"Advances"

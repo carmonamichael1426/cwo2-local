@@ -1,0 +1,3 @@
+"CV23060792"|"06/30/23"|"Posted"|"ODELON A. MIRANDA"|"263,730"|"263,730"|"S7955"|"CV-AP"|"Bank Account"|"B-008"|"CV23060792"|"PAYMENT FOR SOP#31; INV#21162"|""|"ODELON A. MIRANDA"|" "|"1"|""|""
+
+"CV23060792"|"10000"|"PS23060851"|"S7955"|"10.10.01.03.10"|"0"|"263,730"|"263,730"|"0"|"Posted"|"G/L Account"|""|"21162"|"Advances to Suppliers"|"01.01"|"01.01.1.01"|"Advances"

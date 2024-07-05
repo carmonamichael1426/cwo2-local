@@ -1,0 +1,3 @@
+"CV24040085"|"04/03/24"|"Posted"|"SERMASISON CORPORATION"|"17,857.79"|"17,857.79"|"S5111"|"CV-AP"|"Bank Account"|"B-004"|"CV24040085"|"PAYMENT FOR SOP#103;CWO"|""|"SERMASISON CORPORATION"|" "|"1"|""|""
+
+"CV24040085"|"10000"|"PS24040076"|"S5111"|"10.10.01.03.10"|"0"|"17,857.79"|"17,857.79"|"0"|"Posted"|"G/L Account"|""|"208365"|"Advances to Suppliers"|"01.03"|"01.03.1.01"|"Advances"

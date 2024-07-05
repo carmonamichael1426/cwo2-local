@@ -1,0 +1,3 @@
+"CRF2402119"|"02/06/24"|"Posted"|"LMB GROCERY"|"195,000"|"195,000"|"S0362"|"CRF-AP"|"Bank Account"|"B-001"|"CRF2402119"|"PAYMENT FOR CAMOTE FLOUR & PULBOS KAMOTE; SOP-2199"|""|"LMB GROCERY"|" "|"1"|""|""
+
+"CRF2402119"|"10000"|"PS24020153"|"S0362"|"10.10.01.03.10"|"0"|"195,000"|"195,000"|"0"|"Posted"|"G/L Account"|""|"831-832"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

@@ -1,0 +1,3 @@
+"CV23110466"|"11/30/23"|"Posted"|"FOODCHOICE CORP."|"39,297.2"|"39,297.2"|"S7372"|"CV-AP"|"Bank Account"|"B-004"|"CV23110466"|"PAYMENT FOR SOP#71;PO#479753/478690"|""|"FOODCHOICE CORP"|" "|"1"|""|""
+
+"CV23110466"|"10000"|"PS23110494"|"S7372"|"10.10.01.03.10"|"0"|"39,297.2"|"39,297.2"|"0"|"Posted"|"G/L Account"|""|"PO#479753/478690"|"Advances to Suppliers"|"01.03"|"01.03.1.01"|"Advances"

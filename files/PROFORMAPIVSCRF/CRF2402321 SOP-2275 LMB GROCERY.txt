@@ -1,0 +1,3 @@
+"CRF2402321"|"02/21/24"|"Posted"|"LMB GROCERY"|"280,000"|"280,000"|"S0362"|"CRF-AP"|"Bank Account"|"B-001"|"CRF2402321"|"PAYMENT FOR VERMICELLI; SOP-2275"|""|"LMB GROCERY"|" "|"1"|""|""
+
+"CRF2402321"|"10000"|"PS24020476"|"S0362"|"10.10.01.03.10"|"0"|"280,000"|"280,000"|"0"|"Posted"|"G/L Account"|""|"1832"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|"Advances"

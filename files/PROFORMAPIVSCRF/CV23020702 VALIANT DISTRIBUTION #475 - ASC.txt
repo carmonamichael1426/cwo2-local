@@ -1,0 +1,4 @@
+"CV23020702"|"03/01/23"|"Posted"|"VALIANT DISTRIBUTION, INC."|"84,930.14"|"84,930.14"|"S4907"|"CV-AP"|"Bank Account"|"B-008"|"CV23020702"|"PAYMENT FOR SOP#475; INV#1535293; CWO#799"|""|"VALIANT DISTRIBUTION, INC."|" "|"1"|""|""
+
+"CV23020702"|"10000"|"PS23020785"|"S4907"|"10.10.01.03.10"|"0"|"85,695.28"|"85,695.28"|"0"|"Posted"|"G/L Account"|""|"1535293"|"Advances to Suppliers"|"01.01"|"01.01.1.01"|"Advances"
+"CV23020702"|"20000"|"PS23020785"|"S4907"|"SMPJ014415"|"757639016"|"-765.14"|"-765.14"|"0"|"Posted"|"Credit Memo"|""|"WHT SI#1535293"|"Advances to Suppliers"|"01.01"|"01.01.1.01"|"Advances"

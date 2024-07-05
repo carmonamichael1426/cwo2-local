@@ -1,0 +1,3 @@
+"CRF2311248"|"11/17/23"|"Posted"|"LMB GROCERY"|"42,000"|"42,000"|"S0362"|"CRF-AP"|"G/L Account"|"10.10.01.03.11"|"CRF2311248"|"PAYMENT FOR PULBOS KAMOTE;SOP#1752"|""|"LMB GROCERY"|" "|"1"|""|""
+
+"CRF2311248"|"10000"|"PS23110289"|"S0362"|"10.10.01.03.10"|"0"|"42,000"|"42,000"|"0"|"Posted"|"G/L Account"|""|"2462"|"Advances to Suppliers"|"06.00"|"06.00.1.06"|" "

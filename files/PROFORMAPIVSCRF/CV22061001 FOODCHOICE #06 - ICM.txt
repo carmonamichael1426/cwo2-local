@@ -1,0 +1,3 @@
+"CV22061001"|"06/29/22"|"Posted"|"FOODCHOICE CORP."|"167,207.4"|"167,207.4"|"S7372"|"CV-AP"|"Bank Account"|"B-012"|"CV22061001"|"PAYMENT FOR SOP#155548; INV#427054; CWO#679"|""|"FOODCHOICE CORP"|" "|"1"|""|""
+
+"CV22061001"|"10000"|"PS22061490"|"S7372"|"10.10.01.03.10"|"0"|"167,207.4"|"167,207.4"|"0"|"Posted"|"G/L Account"|""|"427054"|"Advances to Suppliers"|"01.04"|"01.04.1.01"|"Advances"

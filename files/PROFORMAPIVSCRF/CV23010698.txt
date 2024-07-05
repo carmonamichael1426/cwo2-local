@@ -1,0 +1,4 @@
+"CV23010698"|"01/25/23"|"Posted"|"MARYLAND DISTRIBUTORS, INC."|"132,927.99"|"132,927.99"|"S6509"|"CV-AP"|"Bank Account"|"B-014"|"CV23010698"|""|""|"MARYLAND DISTRIBUTORS INC"|" "|"1"|""|""
+
+"CV23010698"|"10000"|"PS23010721"|"S6509"|"10.10.01.03.10"|"0"|"172,500"|"172,500"|"0"|"Posted"|"G/L Account"|""|"CPO-00453585"|"Advances to Suppliers"|"01.05"|"01.05.1.01"|"Advances"
+"CV23010698"|"20000"|"PS23010721"|"S6509"|"SMCM180816"|"3946117"|"-39,572.01"|"-39,572.01"|"0"|"Posted"|"Credit Memo"|""|"DISC-0228675"|"Advances to Suppliers"|"01.05"|"01.05.1.01"|" "

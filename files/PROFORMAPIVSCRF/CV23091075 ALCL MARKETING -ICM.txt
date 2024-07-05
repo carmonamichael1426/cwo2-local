@@ -1,0 +1,3 @@
+"CV23091075"|"09/27/23"|"Posted"|"ALCL MARKETING"|"49,702.23"|"49,702.23"|"S8100"|"CV-AP"|"Bank Account"|"B-012"|"CV23091075"|"PAYMENT FOR SOP#51;PI#17924"|""|"ALCL MARKETING"|" "|"1"|""|""
+
+"CV23091075"|"10000"|"PS23091300"|"S8100"|"10.10.01.03.10"|"0"|"49,702.23"|"49,702.23"|"0"|"Posted"|"G/L Account"|""|"17924"|"Advances to Suppliers"|"01.04"|"01.04.1.01"|"Advances"
