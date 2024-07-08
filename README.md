@@ -1,4 +1,4 @@
-# cwo2-local
+# cwo2-local CI V3.1.13
 ###################
 What is CodeIgniter
 ###################
